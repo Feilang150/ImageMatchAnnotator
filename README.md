@@ -27,6 +27,7 @@ ImageMatchAnnotator/
 ### 1. ImageMatch - 图像匹配标注
 
 用于标注图像对之间的匹配点，并计算PnP重投影误差。
+计算PnP Error（需要手动配准结果）。
 
 **功能特性：**
 - 左右双图拼接显示，自动缩放适配窗口
