@@ -1,0 +1,8 @@
+PyQt5
+vtk
+pyqtwebengine<5.16
+PyQt5
+numpy
+opencv-python
+SimpleITK
+tqdm

@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "win.ui;." --add-binary "C:\Users\yurq\Anaconda3\envs\ImageMatchAnnotator\Lib\site-packages\vtk.libs\*.dll;." main.py

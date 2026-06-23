@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed ImageSelector/main.py
